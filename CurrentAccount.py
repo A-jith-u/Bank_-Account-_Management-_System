@@ -13,4 +13,3 @@ class CurrentAccount(BankAccount):
         except ValueError:
             print("Invalid interest rate. Please enter a valid interest rate.")
 
-    
